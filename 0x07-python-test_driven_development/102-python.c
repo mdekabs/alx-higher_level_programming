@@ -2,7 +2,7 @@
 
 /**
  * print_python_string - Prints information about Python strings.
- * @p: PyObject string object.
+ * @p: A PyObject string object.
  */
 void print_python_string(PyObject *p)
 {
